@@ -1,0 +1,20 @@
+<resources>
+    <string name="lab3">lab3</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="fict_ua">ФІОТ</string>
+    <string name="ipsa_ua">ІПСА</string>
+    <string name="tef_ua">ТЕФ</string>
+    <string name="fmm_ua">ФММ</string>
+    <string name="course_ua">Курс:</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="faculty_ua">Факультет:</string>
+    <string name="result_format">Факультет: %1$s\nКурс: %2$s</string>
+    <string name="open">Open</string>
+    <string name="var_13">Варіант 13</string>
+    <string name="close">Close</string>
+    <string name="clear">Clear</string>
+</resources>
